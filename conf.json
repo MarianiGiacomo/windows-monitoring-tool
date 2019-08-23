@@ -1,9 +1,9 @@
 {
-    "url": "https://konman.lemlax.plat.fi/winin.php",
-    "sg": "server1",
+    "url": "",
+    "host": "server1",
     "processesNames": ["System Idle Process"],
     "group": "1",
-    "mg": "testi asiakas",
+    "message": "testi asiakas",
     "session": "8634129954",
     "interval": 900000
 }
